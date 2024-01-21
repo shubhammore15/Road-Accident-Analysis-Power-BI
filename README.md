@@ -32,4 +32,7 @@ These findings enabled the traffic department to target interventions and awaren
 
 This analysis can serve as a tool for traffic departments, policy makers, and public safety organizations to understand road safety dynamics better and to formulate targeted strategies for reducing road accidents.
 
+![Road Accident Analysis](https://github.com/shubhammore15/Road-Accident-Analysis-Power-BI/assets/95162457/2384361f-3edc-4b59-aac2-f97c5f60e40c)
+
+
 
