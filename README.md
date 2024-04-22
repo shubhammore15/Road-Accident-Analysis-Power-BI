@@ -1,5 +1,5 @@
 # Road Accident Analysis Project
-Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMzA1NDkxMWItZGNlMS00NzE1LTljZGItZTkyZDYxZDA2YzQzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+## [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzA1NDkxMWItZGNlMS00NzE1LTljZGItZTkyZDYxZDA2YzQzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 ## Overview
 
 This project presents an in-depth analysis of road accidents using data visualization in Power BI Desktop. It aims to uncover patterns and contributing factors to road accidents, providing valuable insights for informed decision-making in traffic safety and management.
